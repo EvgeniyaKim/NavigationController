@@ -12,6 +12,7 @@
 		3F0163C220233C7B003B8014 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F0163C020233C7B003B8014 /* Main.storyboard */; };
 		3F0163C420233C7B003B8014 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F0163C320233C7B003B8014 /* Assets.xcassets */; };
 		3F0163C720233C7B003B8014 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F0163C520233C7B003B8014 /* LaunchScreen.storyboard */; };
+		3F0163D1202341D2003B8014 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0163D0202341D2003B8014 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3F0163C320233C7B003B8014 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F0163C620233C7B003B8014 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F0163C820233C7B003B8014 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F0163D0202341D2003B8014 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				3F0163BC20233C7B003B8014 /* AppDelegate.swift */,
 				3F0163BE20233C7B003B8014 /* ViewController.swift */,
+				3F0163D0202341D2003B8014 /* ViewController2.swift */,
 				3F0163C020233C7B003B8014 /* Main.storyboard */,
 				3F0163C320233C7B003B8014 /* Assets.xcassets */,
 				3F0163C520233C7B003B8014 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				3F0163BF20233C7B003B8014 /* ViewController.swift in Sources */,
 				3F0163BD20233C7B003B8014 /* AppDelegate.swift in Sources */,
+				3F0163D1202341D2003B8014 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
